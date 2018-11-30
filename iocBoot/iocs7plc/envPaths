@@ -1,0 +1,3 @@
+epicsEnvSet("IOC","iocs7plc")
+epicsEnvSet("TOP","/home/lees/EPICS_learning/s7plc")
+epicsEnvSet("EPICS_BASE","/home/lees/base/base-3.16.1")
